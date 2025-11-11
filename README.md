@@ -84,6 +84,3 @@ If you'd like to improve or extend this project:
 
 ---
 
-## 🧾 License
-
-This project is licensed under the [MIT License](LICENSE).
