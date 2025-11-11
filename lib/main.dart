@@ -100,7 +100,7 @@ class _MyHomePageState extends State<MyHomePage> {
         if (mounted) {
           ScaffoldMessenger.of(context).showSnackBar(
             const SnackBar(
-              content: Text('✅ Product added successfully!'),
+              content: Text(' Product added successfully!'),
               backgroundColor: Colors.green,
               duration: Duration(seconds: 2),
             ),
@@ -139,7 +139,7 @@ class _MyHomePageState extends State<MyHomePage> {
         if (mounted) {
           ScaffoldMessenger.of(context).showSnackBar(
             const SnackBar(
-              content: Text('✅ Product updated successfully!'),
+              content: Text(' Product updated successfully!'),
               backgroundColor: Colors.blue,
               duration: Duration(seconds: 2),
             ),
