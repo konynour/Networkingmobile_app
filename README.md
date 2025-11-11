@@ -22,7 +22,6 @@ It demonstrates how to send and receive data from REST APIs efficiently with mod
 | Package | Version | Description |
 |----------|----------|-------------|
 | flutter | — | Core Flutter SDK |
-| cupertino_icons | ^1.0.8 | iOS-style icons |
 | http | ^1.5.0 | Lightweight HTTP client |
 | dio | ^5.9.0 | Powerful and customizable HTTP client |
 
