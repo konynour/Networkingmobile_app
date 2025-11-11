@@ -54,10 +54,8 @@ flutter run
 lib/
 │
 ├── main.dart                # Entry point of the app
-├── services/
-│   ├── api_service.dart     # Example of network calls using Dio/HTTP
-└── models/
-    └── data_model.dart      # Model classes for JSON parsing
+├── Dio_service.dart     # Example of network calls using Dio
+    └── networking_service.dart      # Example of network calls using Http
 ```
 
 *(Modify paths based on your actual folder structure)*
